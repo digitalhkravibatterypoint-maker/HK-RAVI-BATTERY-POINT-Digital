@@ -1,0 +1,6 @@
+{
+  "name": "HK Ravi Battery Point",
+  "description": "Authorized battery dealer and emergency replacement specialist serving Jeevan Bhima Nagar, Indiranagar, Koramangala, and Bangalore. Exide, Amaron, and inverter batteries with 30-minute doorstep service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
