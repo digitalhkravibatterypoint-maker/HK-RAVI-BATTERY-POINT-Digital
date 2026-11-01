@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- Primary Website Root & Core Services -->
+  <url>
+    <loc>https://hkravibatterypoint.com/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Local Business Storefront & Facility Images for Google Search & Maps -->
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/hk_ravi_shop_front_1788859944919.jpg</image:loc>
+      <image:title>HK Ravi Battery Point - Storefront in Jeevan Bhima Nagar Bangalore</image:title>
+      <image:caption>Authorized multi-brand battery shop in Jeevan Bhima Nagar, Indiranagar, and Koramangala Bengaluru</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/hk_ravi_shop_inside_1788859963918.jpg</image:loc>
+      <image:title>HK Ravi Battery Point - Testing and Diagnostic Bay</image:title>
+      <image:caption>Diagnostic computerized battery health check, terminal cleaning, and testing workshop in Bangalore</image:caption>
+    </image:image>
+
+    <!-- Automotive & Emergency Services -->
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/indian_car_battery_1788858964574.jpg</image:loc>
+      <image:title>Car Battery Replacement &amp; Doorstep Installation Bangalore</image:title>
+      <image:caption>30-minute doorstep car battery delivery, installation and emergency jumpstart in Bangalore</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/indian_bike_battery_1788859021322.jpg</image:loc>
+      <image:title>Two-Wheeler &amp; Motorcycle Battery Sales Bangalore</image:title>
+      <image:caption>Amaron and Exide motorcycle batteries with instant fitment in Bangalore</image:caption>
+    </image:image>
+
+    <!-- Inverter & UPS Power Backup -->
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/indian_inverter_home_1788859004362.jpg</image:loc>
+      <image:title>Home Inverter &amp; UPS Batteries Bangalore</image:title>
+      <image:caption>Luminous, Microtek, and Exide tall tubular inverter battery combos with old battery scrap exchange offer</image:caption>
+    </image:image>
+
+    <!-- Solar & Commercial Heavy Duty -->
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/solar_tubular_battery_1788954792984.jpg</image:loc>
+      <image:title>Solar C10 Deep Cycle Tubular Batteries</image:title>
+      <image:caption>High-performance solar tubular batteries with deep discharge recovery for rooftop solar installations</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/indian_truck_battery_1788959035123.jpg</image:loc>
+      <image:title>Commercial Truck &amp; Heavy Fleet Batteries Bangalore</image:title>
+      <image:caption>Heavy commercial vehicles, trucks, buses, tractors, and generator DG sets battery supply</image:caption>
+    </image:image>
+
+    <!-- Leading Brands -->
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/brand_amaron_battery_1788860840340.jpg</image:loc>
+      <image:title>Amaron Batteries Dealer Bangalore</image:title>
+      <image:caption>Authorized dealer for Amaron FLO, PRO, and GO automotive and two-wheeler batteries</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/brand_exide_battery_1788860823404.jpg</image:loc>
+      <image:title>Exide Batteries Dealer Bangalore</image:title>
+      <image:caption>Authorized dealer for Exide Mileage, Matrix, and InvaRed automotive and inverter batteries</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/brand_luminous_battery_1788860920237.jpg</image:loc>
+      <image:title>Luminous Inverter Batteries Bangalore</image:title>
+      <image:caption>Authorized dealer for Luminous Red Charge and Eco Volt series inverter power solutions</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://hkravibatterypoint.com/assets/brand_microtek_battery_1788860936761.jpg</image:loc>
+      <image:title>Microtek Inverters &amp; Tubular Batteries</image:title>
+      <image:caption>Microtek intelligent sinewave home inverters and heavy tubular battery backups</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Battery Inventory & Catalog Section -->
+  <url>
+    <loc>https://hkravibatterypoint.com/#products</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Doorstep Replacement, Jumpstart & Maintenance Services -->
+  <url>
+    <loc>https://hkravibatterypoint.com/#services</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Vehicle Battery Finder Tool -->
+  <url>
+    <loc>https://hkravibatterypoint.com/#finder</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Authorized Brands Section (Exide, Amaron, Luminous, Microtek, SF Sonic, Tata Green) -->
+  <url>
+    <loc>https://hkravibatterypoint.com/#brands</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Store Profile & Heritage Section -->
+  <url>
+    <loc>https://hkravibatterypoint.com/#about</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Store Location, Working Hours & Direct Inquiry Form -->
+  <url>
+    <loc>https://hkravibatterypoint.com/#contact</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

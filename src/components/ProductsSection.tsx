@@ -79,13 +79,19 @@ export const ProductsSection: React.FC<ProductsSectionProps> = ({
                 <img
                   src={cat.image}
                   alt={cat.title}
-                  loading="lazy"
+                  loading="eager"
                   decoding="async"
-                  referrerPolicy="no-referrer"
                   onError={(e) => {
                     const target = e.currentTarget;
-                    if (!target.dataset.fallback) {
-                      target.dataset.fallback = 'true';
+                    if (!target.dataset.fallback1) {
+                      target.dataset.fallback1 = 'true';
+                      if (cat.id === 'solar') {
+                        target.src = INDIAN_ASSETS.exideSolar || '/assets/solar_tubular_battery_1788954792984.jpg';
+                      } else {
+                        target.src = INDIAN_ASSETS.carBattery;
+                      }
+                    } else if (!target.dataset.fallback2) {
+                      target.dataset.fallback2 = 'true';
                       target.src = INDIAN_ASSETS.inverterHome;
                     }
                   }}
@@ -193,7 +199,6 @@ export const ProductsSection: React.FC<ProductsSectionProps> = ({
                       alt={product.name}
                       loading="lazy"
                       decoding="async"
-                      referrerPolicy="no-referrer"
                       onError={(e) => {
                         const target = e.currentTarget;
                         if (!target.dataset.fallback) {
@@ -267,7 +272,6 @@ export const ProductsSection: React.FC<ProductsSectionProps> = ({
               <img
                 src={selectedProductModal.image}
                 alt={selectedProductModal.name}
-                referrerPolicy="no-referrer"
                 onError={(e) => {
                   const target = e.currentTarget;
                   if (!target.dataset.fallback) {
