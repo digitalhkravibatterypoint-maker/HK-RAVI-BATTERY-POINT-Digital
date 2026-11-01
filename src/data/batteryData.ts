@@ -273,7 +273,7 @@ export const BATTERY_PRODUCTS: BatteryProduct[] = [
     voltage: '12V',
     priceEstimate: 'Best Price on Request',
     image: indianBikeBatteryImg,
-    description: 'Factory filled and maintenance free heavy cranking bike battery for heavy cruisers.',
+    description: 'Factory filled and zero-maintenance heavy cranking bike battery for heavy cruisers.',
     keyFeatures: ['High cranking for high CC bikes', 'Vibration proof lead calcium grid', 'Sealed design', 'Long shelf life'],
     recommendedVehicles: ['Royal Enfield Classic 350', 'Bullet 500', 'Himalayan', 'Meteor 350', 'KTM 390'],
     inStock: true,
@@ -354,15 +354,15 @@ export const SERVICES_LIST: ServiceItem[] = [
     id: 'service-car-replacement',
     title: 'Car Battery Replacement',
     category: 'Automotive',
-    shortDesc: 'Quick doorstep car battery replacement with free alternator and charging system check.',
+    shortDesc: 'Quick doorstep car battery replacement with complete alternator and charging system check.',
     fullDesc: 'Stuck with a dead car battery in Jeevan Bhima Nagar, Indiranagar, or surrounding areas? Our certified mobile technician will reach your spot in 30 minutes with a fresh, warranty-stamped battery of your choice (Amaron, Exide, SF Sonic, Tata Green). We inspect your alternator voltage, clean terminal posts, apply anti-corrosion grease, and handle old battery recycling.',
     iconName: 'Car',
     turnaroundTime: '25-35 Minutes',
-    startingPrice: 'Free Doorstep Service',
+    startingPrice: 'Doorstep Service Included',
     includedBenefits: [
-      'Free doorstep delivery & installation',
+      'Doorstep delivery & professional installation',
       'Old battery exchange rebate with scrap trade-in',
-      'Free alternator and starter motor load test',
+      'Alternator and starter motor load test',
       'Instant digital warranty activation'
     ]
   },
@@ -374,7 +374,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     fullDesc: 'Get fast battery replacements for scooters (Activa, Jupiter, Access) and motorbikes (Royal Enfield, Pulsar, Apache, Duke). We stock zero-maintenance VRLA batteries with high cold-cranking power to guarantee swift self-starts.',
     iconName: 'Bike',
     turnaroundTime: '20-30 Minutes',
-    startingPrice: 'Free Installation',
+    startingPrice: 'Professional Installation',
     includedBenefits: [
       'Spill-proof and multi-angle mounting',
       'Immediate push-button ignition test',
@@ -406,11 +406,11 @@ export const SERVICES_LIST: ServiceItem[] = [
     fullDesc: 'Keep your work-from-home setup, lights, fans, and medical appliances running without a hitch. We supply genuine Luminous, Microtek, and Okaya tall tubular batteries with doorstep installation and inverter wiring inspection.',
     iconName: 'Home',
     turnaroundTime: 'Within 2 Hours',
-    startingPrice: 'Free Setup with Purchase',
+    startingPrice: 'Setup Included with Purchase',
     includedBenefits: [
       'Load audit to determine ideal inverter capacity',
       'Safe heavy battery trolley placement',
-      'Free distilled water top-up kit with new battery',
+      'Distilled water top-up kit with new battery',
       'Eco-friendly recycling of old tubular cells'
     ]
   },
@@ -470,7 +470,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     fullDesc: 'Car wont crank in your basement parking or on the road? Call our emergency helpline. Our mobile emergency van arrives equipped with heavy-duty booster cables, jump starter packs, and backup batteries for instant rescue.',
     iconName: 'Zap',
     turnaroundTime: '20-30 Min Emergency SOS',
-    startingPrice: 'Nominal Callout / Free with New Battery',
+    startingPrice: 'Nominal Callout / Included with New Battery',
     includedBenefits: [
       'Quick jumpstart with surge protection',
       'Covering Jeevan Bhima Nagar, Indiranagar, Domlur, HAL',

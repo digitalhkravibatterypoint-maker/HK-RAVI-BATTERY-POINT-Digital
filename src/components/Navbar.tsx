@@ -87,7 +87,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </span>
             <span className="text-xs text-slate-500 flex items-center gap-1 font-medium">
               <Shield className="w-3.5 h-3.5 text-red-600" />
-              100% Genuine & Free Installation
+              100% Genuine & Expert Installation
             </span>
           </div>
         </div>

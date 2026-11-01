@@ -106,7 +106,7 @@ export const AboutSection: React.FC = () => {
               {[
                 'Authorized dealer for Exide, Amaron & Luminous',
                 '30-Minute doorstep delivery in Bangalore',
-                'Free digital computerized battery health checks',
+                'Digital computerized battery health checks',
                 'Highest scrap rebate on old battery trade-in',
                 '100% genuine products with manufacturer warranty',
                 'Emergency 24/7 breakdown jumpstart support'

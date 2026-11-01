@@ -73,7 +73,7 @@ export const CallToAction: React.FC = () => {
             <ShieldCheck className="w-4 h-4 text-emerald-400" /> Authorized Dealer
           </span>
           <span>•</span>
-          <span>Free Battery Health Check</span>
+          <span>Battery Health Check</span>
           <span>•</span>
           <span>Open 7 Days a Week (8:00 AM - 9:30 PM)</span>
         </div>
